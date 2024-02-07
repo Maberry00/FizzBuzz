@@ -1,0 +1,14 @@
+Public string FizzBuzz(int number)
+{
+	If (number % 3 == 0) 
+{
+	Answer = “fizz”
+}
+
+If (number % 5 == 0)
+{
+	Answer += “buzz”
+}
+
+Return “fizzbuzz”; 
+}
